@@ -1,0 +1,11 @@
+[project]
+name = "measurecamp-london-bigqery-mcp"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "boring-semantic-layer>=0.1.10",
+    "ibis>=3.3.0",
+    "mcp-test>=1.4.0",
+]
